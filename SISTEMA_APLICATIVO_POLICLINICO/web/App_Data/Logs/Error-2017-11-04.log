@@ -1,0 +1,36 @@
+[ERROR] 13:27:16.392:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 13:27:55.090:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 14:31:25.556:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 14:36:30.451:
+- Auth.Service.ApplicationUserManager.RemoveFromRolesAsync (Line #0)
+- The entity type List`1 is not part of the model for the current context.
+ 
+[ERROR] 14:39:17.932:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 14:40:32.104:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 14:41:10.664:
+- Auth.Service.ApplicationUserManager.AddToRolesAsync (Line #0)
+- An error occurred while updating the entries. See the inner exception for details.
+ 
+[ERROR] 14:48:09.458:
+- Auth.Service.ApplicationUserManager.RemoveFromRolesAsync (Line #0)
+- The entity type List`1 is not part of the model for the current context.
+ 
+[ERROR] 14:48:49.789:
+- Auth.Service.ApplicationUserManager.RemoveFromRolesAsync (Line #0)
+- The entity type List`1 is not part of the model for the current context.
+ 

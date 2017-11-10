@@ -1,0 +1,156 @@
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.usermodificado.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.primeraface.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.usermodificado.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.primeraface.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.segunda.resources
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Deus\Desktop\asp.net-mvc-5-arquitectura-base-master - copia - copia\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.usermodificado.resources
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.primeraface.resources
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.segunda.resources
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\base\Modificado\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.usermodificado.resources
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.primeraface.resources
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.segunda.resources
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.usermodificado.resources
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.primeraface.resources
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.segunda.resources
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.resources.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Code\devlab\nuevo\03-Persistence\Persistence.DatabaseContext\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll

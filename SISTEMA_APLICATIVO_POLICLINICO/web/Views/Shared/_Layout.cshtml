@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Policlinico Divino Niño</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mynavbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" style="padding:0px;" href="/Home">
+                    <img src="~/img/logo.png" style="height:40px; padding:5px; width:85px;">
+                </a>
+            </div>
+            <div class="navbar-collapse collapse" id="mynavbar">
+                <ul class="nav navbar-nav">
+                    @*@if (User.IsInRole("AdminClientes") || User.IsInRole("Admin")){*@
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Admision<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Registro de Atenciones", "Index", "AtencionAdmisiones")</li>
+                                <li>@Html.ActionLink("Registro de Pacientes", "Index", "Pacientes")</li>
+                                <li>@Html.ActionLink("Lista de Entregas", "Index", "AtencionAdmisiones")</li>
+                            </ul>
+                        </li>
+                      @* } *@
+                    @*@if (User.IsInRole("Adminperfiles") || User.IsInRole("Admin")) {*@
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Adm Perfiles Medicos <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+
+                                <li>@Html.ActionLink("Examenes", "Index", "Examen")</li>
+                                <li>@Html.ActionLink("Empresas", "Index", "Empresa")</li>
+                                <li>@Html.ActionLink("Medicos", "Index", "Medico")</li>
+                                <li>@Html.ActionLink("Campañas", "Index", "Campanias")</li>
+                                <li>@Html.ActionLink("Perfiles Medicos", "Index", "Perfil")</li>
+
+                            </ul>
+                        </li>
+                    @* } *@
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Adm Sistema<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Adm Usuarios", "Index", "UsersAdmin")</li>
+                            <li> @Html.ActionLink("Adm Roles", "Index", "RolesAdmin")</li>
+                            @*<li>@Html.ActionLink("Auditoria", "Index", "History")</li>*@
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Tablas Maestro<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Tipo De Examenes Ocupacionales", "Index", "TipoExamenOcupacional")</li>
+                            <li>@Html.ActionLink("Especialidades", "Index", "Especialidad")</li>
+                        </ul>
+                    </li>
+                </ul>
+
+
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            @RenderBody()
+        </div>
+    </div>
+    <footer class="footer"></footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

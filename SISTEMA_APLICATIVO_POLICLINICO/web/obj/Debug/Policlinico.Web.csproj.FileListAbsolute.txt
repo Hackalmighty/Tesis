@@ -1,0 +1,495 @@
+C:\Users\Deus\Desktop\base\Modificado\web\obj\Debug\Policlinico.Web.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Desktop\base\Modificado\web\obj\Debug\FrontEnd.dll
+C:\Users\Deus\Desktop\base\Modificado\web\obj\Debug\FrontEnd.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\csc.exe
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\csc.exe.config
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\csc.rsp
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\csi.exe
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\csi.rsp
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.AppContext.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\vbc.exe
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\vbc.exe.config
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\vbc.rsp
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deus\Desktop\base\Modificado\web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deus\Desktop\base\Modificado\web\bin\NLog.config
+C:\Users\Deus\Desktop\base\Modificado\web\bin\FrontEnd.dll.config
+C:\Users\Deus\Desktop\base\Modificado\web\bin\FrontEnd.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\FrontEnd.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Antlr3.Runtime.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Auth.Service.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Common.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\EntityFramework.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\EntityFramework.SqlServer.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\LightInject.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Model.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Newtonsoft.Json.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\NLog.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Owin.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.DatabaseContext.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Service.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Helpers.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Mvc.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Optimization.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Razor.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\WebGrease.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.DbContextScope.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.Repository.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Auth.Service.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Service.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Common.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Model.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Antlr3.Runtime.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\LightInject.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\LightInject.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Newtonsoft.Json.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\NLog.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Optimization.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Helpers.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Mvc.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.Razor.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\EntityFramework.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\EntityFramework.SqlServer.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.DbContextScope.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\Persistence.Repository.pdb
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\EntityFramework.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Deus\Desktop\base\Modificado\web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\csc.exe
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\csc.exe.config
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\csc.rsp
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\csi.exe
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\csi.rsp
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.AppContext.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\vbc.exe
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\vbc.exe.config
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\vbc.rsp
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\NLog.config
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\FrontEnd.dll.config
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\FrontEnd.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\FrontEnd.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Antlr3.Runtime.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Auth.Service.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Common.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\EntityFramework.SqlServer.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\LightInject.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Model.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Newtonsoft.Json.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\NLog.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Owin.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.DatabaseContext.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Service.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Helpers.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Mvc.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Optimization.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Razor.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\WebGrease.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.DbContextScope.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.Repository.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Auth.Service.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Service.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Common.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Model.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.DatabaseContext.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Antlr3.Runtime.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\LightInject.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\LightInject.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Newtonsoft.Json.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\NLog.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Optimization.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Helpers.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Mvc.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.Razor.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\EntityFramework.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\EntityFramework.SqlServer.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.DbContextScope.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\Persistence.Repository.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\EntityFramework.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\obj\Debug\Policlinico.Web.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\obj\Debug\FrontEnd.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\Policlinico\nuevo\web\obj\Debug\FrontEnd.pdb
+D:\Code\devlab\nuevo\web\bin\roslyn\csc.exe
+D:\Code\devlab\nuevo\web\bin\roslyn\csc.exe.config
+D:\Code\devlab\nuevo\web\bin\roslyn\csc.rsp
+D:\Code\devlab\nuevo\web\bin\roslyn\csi.exe
+D:\Code\devlab\nuevo\web\bin\roslyn\csi.rsp
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\devlab\nuevo\web\bin\roslyn\System.AppContext.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\devlab\nuevo\web\bin\roslyn\vbc.exe
+D:\Code\devlab\nuevo\web\bin\roslyn\vbc.exe.config
+D:\Code\devlab\nuevo\web\bin\roslyn\vbc.rsp
+D:\Code\devlab\nuevo\web\bin\roslyn\VBCSCompiler.exe
+D:\Code\devlab\nuevo\web\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\devlab\nuevo\web\bin\NLog.config
+D:\Code\devlab\nuevo\web\bin\FrontEnd.dll.config
+D:\Code\devlab\nuevo\web\bin\FrontEnd.dll
+D:\Code\devlab\nuevo\web\bin\FrontEnd.pdb
+D:\Code\devlab\nuevo\web\bin\Antlr3.Runtime.dll
+D:\Code\devlab\nuevo\web\bin\Auth.Service.dll
+D:\Code\devlab\nuevo\web\bin\Common.dll
+D:\Code\devlab\nuevo\web\bin\EntityFramework.dll
+D:\Code\devlab\nuevo\web\bin\EntityFramework.SqlServer.dll
+D:\Code\devlab\nuevo\web\bin\LightInject.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Google.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Code\devlab\nuevo\web\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\devlab\nuevo\web\bin\Model.dll
+D:\Code\devlab\nuevo\web\bin\Newtonsoft.Json.dll
+D:\Code\devlab\nuevo\web\bin\NLog.dll
+D:\Code\devlab\nuevo\web\bin\Owin.dll
+D:\Code\devlab\nuevo\web\bin\Persistence.DatabaseContext.dll
+D:\Code\devlab\nuevo\web\bin\Service.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.Helpers.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.Mvc.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.Optimization.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.Razor.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.Deployment.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.dll
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.Razor.dll
+D:\Code\devlab\nuevo\web\bin\WebGrease.dll
+D:\Code\devlab\nuevo\web\bin\Persistence.DbContextScope.dll
+D:\Code\devlab\nuevo\web\bin\Persistence.Repository.dll
+D:\Code\devlab\nuevo\web\bin\EntityFramework.DynamicFilters.dll
+D:\Code\devlab\nuevo\web\bin\Auth.Service.pdb
+D:\Code\devlab\nuevo\web\bin\Auth.Service.dll.config
+D:\Code\devlab\nuevo\web\bin\Service.pdb
+D:\Code\devlab\nuevo\web\bin\Service.dll.config
+D:\Code\devlab\nuevo\web\bin\Common.pdb
+D:\Code\devlab\nuevo\web\bin\Model.pdb
+D:\Code\devlab\nuevo\web\bin\Persistence.DatabaseContext.pdb
+D:\Code\devlab\nuevo\web\bin\Antlr3.Runtime.pdb
+D:\Code\devlab\nuevo\web\bin\LightInject.pdb
+D:\Code\devlab\nuevo\web\bin\LightInject.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\devlab\nuevo\web\bin\Newtonsoft.Json.xml
+D:\Code\devlab\nuevo\web\bin\NLog.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.Optimization.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.Helpers.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.Mvc.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.Razor.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.Deployment.xml
+D:\Code\devlab\nuevo\web\bin\System.Web.WebPages.Razor.xml
+D:\Code\devlab\nuevo\web\bin\EntityFramework.xml
+D:\Code\devlab\nuevo\web\bin\EntityFramework.SqlServer.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Google.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Code\devlab\nuevo\web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Code\devlab\nuevo\web\bin\Persistence.DbContextScope.pdb
+D:\Code\devlab\nuevo\web\bin\Persistence.Repository.pdb
+D:\Code\devlab\nuevo\web\bin\es\System.Web.Optimization.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.Helpers.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.Mvc.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.Razor.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.WebPages.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\EntityFramework.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Code\devlab\nuevo\web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Code\devlab\nuevo\web\obj\Debug\Policlinico.Web.csprojResolveAssemblyReference.cache
+D:\Code\devlab\nuevo\web\obj\Debug\Policlinico.Web.csproj.CoreCompileInputs.cache
+D:\Code\devlab\nuevo\web\obj\Debug\FrontEnd.dll
+D:\Code\devlab\nuevo\web\obj\Debug\FrontEnd.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\csc.exe
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\csc.exe.config
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\csc.rsp
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\csi.exe
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\csi.rsp
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.AppContext.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.Collections.Immutable.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.IO.FileSystem.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\System.Reflection.Metadata.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\vbc.exe
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\vbc.exe.config
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\vbc.rsp
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\VBCSCompiler.exe
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\roslyn\VBCSCompiler.exe.config
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\NLog.config
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\FrontEnd.dll.config
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\FrontEnd.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\FrontEnd.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Antlr3.Runtime.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Auth.Service.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Common.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\EntityFramework.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\EntityFramework.SqlServer.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\LightInject.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Google.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Web.Infrastructure.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Model.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Newtonsoft.Json.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\NLog.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Owin.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.DatabaseContext.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Service.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Helpers.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Mvc.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Optimization.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Razor.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.Deployment.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.Razor.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\WebGrease.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.DbContextScope.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.Repository.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\EntityFramework.DynamicFilters.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Auth.Service.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Service.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Common.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Model.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.DatabaseContext.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Antlr3.Runtime.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\LightInject.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\LightInject.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Newtonsoft.Json.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\NLog.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Optimization.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Helpers.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Mvc.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.Razor.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.Deployment.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\System.Web.WebPages.Razor.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\EntityFramework.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\EntityFramework.SqlServer.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Google.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.DbContextScope.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\Persistence.Repository.pdb
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.Optimization.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.Helpers.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.Mvc.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.Razor.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.WebPages.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\EntityFramework.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\EntityFramework.SqlServer.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Security.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\obj\Debug\Policlinico.Web.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\obj\Debug\FrontEnd.dll
+D:\GoogleDrive\Universidad\PET 2\SISTEMA_APLICATIVO_POLICLINICO\web\obj\Debug\FrontEnd.pdb
